@@ -11,7 +11,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import MainView from './src/main/main-view';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
-import CONSTANTS from './src/CONSTANTS';
+import DesignConstants from './src/design-constants';
 
 const Stack = createStackNavigator();
 
@@ -23,12 +23,12 @@ const App: () => React$Node = () => {
                                  screenOptions={{
                                      title: 'SCOZERA',
                                      headerStyle: {
-                                         backgroundColor: CONSTANTS.appBarColor,
+                                         backgroundColor: DesignConstants.appBarColor,
                                      },
-                                     headerTintColor: CONSTANTS.white,
+                                     headerTintColor: DesignConstants.white,
                                      headerTitleStyle: {
                                          fontWeight: 'bold',
-                                         fontSize: CONSTANTS.appBarFontSize
+                                         fontSize: DesignConstants.appBarFontSize
                                      },
                                  }}>
                     <Stack.Screen name="MainView" component={MainView}/>
