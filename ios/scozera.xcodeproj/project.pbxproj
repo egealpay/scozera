@@ -20,22 +20,6 @@
 		59F3613E457A15DA2281E580 /* libPods-scozera-scozeraTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 347EE58C24FC42CC683F613D /* libPods-scozera-scozeraTests.a */; };
 		7C85778FC17062158DEA6C64 /* libPods-scozera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C9B3F01BC587B65524991EBF /* libPods-scozera.a */; };
 		9649E279C0DDA671D52B3DBD /* libPods-scozera-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9809CEF96454825A39D87449 /* libPods-scozera-tvOSTests.a */; };
-		BAD1EB5924B6407D00930C36 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4924B6407D00930C36 /* Fontisto.ttf */; };
-		BAD1EB5A24B6407D00930C36 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4A24B6407D00930C36 /* Octicons.ttf */; };
-		BAD1EB5B24B6407D00930C36 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4B24B6407D00930C36 /* Feather.ttf */; };
-		BAD1EB5C24B6407D00930C36 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4C24B6407D00930C36 /* Entypo.ttf */; };
-		BAD1EB5D24B6407D00930C36 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4D24B6407D00930C36 /* FontAwesome5_Brands.ttf */; };
-		BAD1EB5E24B6407D00930C36 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4E24B6407D00930C36 /* MaterialCommunityIcons.ttf */; };
-		BAD1EB5F24B6407D00930C36 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB4F24B6407D00930C36 /* AntDesign.ttf */; };
-		BAD1EB6024B6407D00930C36 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5024B6407D00930C36 /* Foundation.ttf */; };
-		BAD1EB6124B6407D00930C36 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5124B6407D00930C36 /* Ionicons.ttf */; };
-		BAD1EB6224B6407D00930C36 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5224B6407D00930C36 /* FontAwesome5_Solid.ttf */; };
-		BAD1EB6324B6407D00930C36 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5324B6407D00930C36 /* FontAwesome5_Regular.ttf */; };
-		BAD1EB6424B6407D00930C36 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5424B6407D00930C36 /* FontAwesome.ttf */; };
-		BAD1EB6524B6407D00930C36 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5524B6407D00930C36 /* Zocial.ttf */; };
-		BAD1EB6624B6407D00930C36 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5624B6407D00930C36 /* EvilIcons.ttf */; };
-		BAD1EB6724B6407D00930C36 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5724B6407D00930C36 /* SimpleLineIcons.ttf */; };
-		BAD1EB6824B6407D00930C36 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD1EB5824B6407D00930C36 /* MaterialIcons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -265,6 +249,7 @@
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
+				297BBA6D90F8F1A5DA66E9E9 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -286,6 +271,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				6D6F9A3956C8B796A1156C14 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -394,23 +380,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BAD1EB5924B6407D00930C36 /* Fontisto.ttf in Resources */,
-				BAD1EB6424B6407D00930C36 /* FontAwesome.ttf in Resources */,
-				BAD1EB6024B6407D00930C36 /* Foundation.ttf in Resources */,
-				BAD1EB6324B6407D00930C36 /* FontAwesome5_Regular.ttf in Resources */,
-				BAD1EB6124B6407D00930C36 /* Ionicons.ttf in Resources */,
-				BAD1EB6624B6407D00930C36 /* EvilIcons.ttf in Resources */,
-				BAD1EB5C24B6407D00930C36 /* Entypo.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				BAD1EB6524B6407D00930C36 /* Zocial.ttf in Resources */,
-				BAD1EB6724B6407D00930C36 /* SimpleLineIcons.ttf in Resources */,
-				BAD1EB5B24B6407D00930C36 /* Feather.ttf in Resources */,
-				BAD1EB5A24B6407D00930C36 /* Octicons.ttf in Resources */,
-				BAD1EB5D24B6407D00930C36 /* FontAwesome5_Brands.ttf in Resources */,
-				BAD1EB5F24B6407D00930C36 /* AntDesign.ttf in Resources */,
-				BAD1EB6824B6407D00930C36 /* MaterialIcons.ttf in Resources */,
-				BAD1EB6224B6407D00930C36 /* FontAwesome5_Solid.ttf in Resources */,
-				BAD1EB5E24B6407D00930C36 /* MaterialCommunityIcons.ttf in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -447,6 +417,54 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
+		297BBA6D90F8F1A5DA66E9E9 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-scozera-scozeraTests/Pods-scozera-scozeraTests-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-scozera-scozeraTests/Pods-scozera-scozeraTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -481,6 +499,54 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6D6F9A3956C8B796A1156C14 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-scozera/Pods-scozera-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-scozera/Pods-scozera-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6F0D2C95B7679040F33A995D /* [CP] Check Pods Manifest.lock */ = {
