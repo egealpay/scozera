@@ -11,8 +11,8 @@ var D_C = {
     fontSizeS: 12,
     fontSizeM: 14,
     fontSizeL: 18,
-    fontSizeXL: 24,
-    fontSizeXXL: 32,
+    fontSizeXL: 22,
+    fontSizeXXL: 26,
 
 };
 
