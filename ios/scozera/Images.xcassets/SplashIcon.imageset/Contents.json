@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "scozera1.png",
+      "filename" : "splash_big-2.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "scozera2.png",
+      "filename" : "splash_big-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "scozera3.png",
+      "filename" : "splash_big.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
