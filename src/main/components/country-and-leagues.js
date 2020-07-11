@@ -19,7 +19,6 @@ function CountryAndLeagues(props) {
     }
 
     function onCountryPressed() {
-        console.log('country pressed');
         setShowDetails(!showDetails);
     }
 

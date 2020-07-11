@@ -5,6 +5,7 @@ var D_C = {
 
     white: '#fff',
     lightGray: '#ccb',
+    darkGray: '#a0a0a0',
 
     fontSizeXXS: 9,
     fontSizeXS: 10,

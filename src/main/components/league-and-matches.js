@@ -12,7 +12,7 @@ function LeagueAndMatches(props) {
     }
 
     function renderLeagueTitle() {
-        return <Text style={{color: D_C.lightGray, fontSize: D_C.fontSizeL}}>{props.competition.leagueName}</Text>;
+        return <Text style={{color: D_C.darkGray, fontSize: D_C.fontSizeL}}>{props.competition.leagueName}</Text>;
     }
 
     return <View>
