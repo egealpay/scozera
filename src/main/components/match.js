@@ -23,8 +23,11 @@ function Match(props) {
     }
 
     function renderDate() {
-        return <Text
-            style={{marginRight: 8, fontSize: D_C.fontSizeL}}>{moment(props.match.mstUtc).format('HH:mm')}</Text>;
+        return <View style={{alignItems: 'center'}}>
+            <Text
+                style={{marginRight: 8, fontSize: D_C.fontSizeL}}>{moment(props.match.mstUtc).format('HH:mm')}</Text>
+            <Text>{props.match.statusBoxContent}</Text>
+        </View>;
     }
 
     return <View style={{flexDirection: 'row', marginVertical: 12, alignItems: 'center'}}>
